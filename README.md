@@ -33,9 +33,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maab-fw&show_icons=true&locale=en&layout=compact" alt="maab-fw" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maab-fw&show_icons=true&locale=en" alt="maab-fw" /></p>
+![GitHub streak stats](https://streak-stats.demolab.com/?user=MAAB-FW)  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maab-fw&" alt="maab-fw" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MAAB-FW&show_icons=true)  
+
+
 
 
 
