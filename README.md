@@ -1,12 +1,15 @@
 **Under Construction**
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=maab-fw&label=Profile%20views&color=0e75b6&style=flat" alt="maab-fw" /> </p>
+
 <h3 align="center">A passionate learner of frontend developer.</h3>
+<hr>
+<div align="center"> 
+  
+  🌱 I’m currently learning **Web Development**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maab-fw&label=Profile%20views&color=0e75b6&style=flat" alt="maab-fw" /> </p>
-
-- 🌱 I’m currently learning **Web Development**
-
-- 📫 How to reach me **maab@tutanota.com**
+  📫 How to reach me **maab@tutanota.com**
+  </div>
 
 <!---
 <h3 align="left">Connect with me:</h3>
@@ -14,29 +17,24 @@
 </p>
 --->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!--- html --->
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-    <!--- css --->
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-    <!--- javascript --->
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-    <!--- tailwind --->
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-    <!--- react --->
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-    <!--- illustrator--->
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
+<h3 align="center">Languages and Tools:</h3>
+<div align="center">
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,ai" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=vscodium,notion" />
+</a>
+  </div>
+  
 
-  </p>
+<div align="center">
+  
+<img width="410" src="https://streak-stats.demolab.com/?user=MAAB-FW" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maab-fw&show_icons=true&locale=en&layout=compact" alt="maab-fw" /></p>
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=MAAB-FW)  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MAAB-FW&show_icons=true)  
-
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=MAAB-FW&show_icons=true" />
+  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maab-fw&show_icons=true&locale=en&layout=compact" alt="maab-fw" /></p>
+</div>
 
 
 
