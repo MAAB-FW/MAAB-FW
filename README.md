@@ -2,8 +2,8 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=maab-fw&label=Profile%20views&color=0e75b6&style=flat" alt="maab-fw" /> </p>
 
-<h3 align="center">A passionate learner of frontend developer.</h3>
 <hr>
+<h3 align="center">A passionate learner of frontend developer.</h3>
 <div align="center"> 
   
   🌱 I’m currently learning **Web Development**
@@ -12,26 +12,28 @@
   </div>
 
 <!---
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 </p>
 --->
-
-<h3 align="center">Languages and Tools:</h3>
+<hr>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br>
 <div align="center">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,ai" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=vscodium,notion" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,vite,ai" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=windows,powershell,vscodium,notion" />
 </a>
   </div>
-  
-
+  <hr>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br/>
 <div align="center">
   
 <img width="410" src="https://streak-stats.demolab.com/?user=MAAB-FW" />
 
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=MAAB-FW&show_icons=true" />
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=MAAB-FW&show_icons=true&rank_icon=github" />
   
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maab-fw&show_icons=true&locale=en&layout=compact" alt="maab-fw" /></p>
 </div>
