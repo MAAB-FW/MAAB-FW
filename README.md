@@ -11,16 +11,24 @@
   📫 How to reach me **maab@tutanota.com**
   </div>
 
-<!---
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-</p>
---->
+
+<h2 align="center">Connect with me:</h2>
+<div align="center">
+   <a href="https://facebook.com/groups/MuslimTechnician" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="t.me/MuslimTechnicianGroup" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tutanota/default.svg" width="52" height="40" alt="tutanota logo"  />
+</div>
+  
+
 <hr>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br>
 <div align="center">
-<a href="https://skillicons.dev">
+<a href="">
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,vite,ai" />
   <br/>
   <img src="https://skillicons.dev/icons?i=windows,powershell,vscodium,notion" />
@@ -39,9 +47,34 @@
 </div>
 
 
+###
+<!---
+<img src="https://raw.githubusercontent.com/maab-fw/maab-fw/output/snake.svg" alt="Snake animation" />
+--->
+
+###
 
 
 
+
+
+<!---
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
+</div>
+--->
 
 <!---
 - 👋 Hi, I’m @MAAB-FW
