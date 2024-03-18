@@ -3,10 +3,10 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=maab-fw&label=Profile%20views&color=0e75b6&style=flat" alt="maab-fw" /> </p>
 
 <hr>
-<h3 align="center">A passionate learner of frontend developer.</h3>
+<h3 align="center">A passionate learner of frontend development.</h3>
 <div align="center"> 
   
-  🌱 I’m currently learning **Web Development**
+  🌱 I’m currently learning **React**
 
   📫 How to reach me **maab@tutanota.com**
   </div>
