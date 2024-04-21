@@ -31,9 +31,9 @@
 <br>
 <div align="center">
 <a href="">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,vite,ai,firebase" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,vite,ai,firebase,mongodb,express,nodejs" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=windows,powershell,vscodium,notion" />
+  <img src="https://skillicons.dev/icons?i=windows,powershell,npm,vscodium,notion" />
 </a>
   </div>
   <hr>
