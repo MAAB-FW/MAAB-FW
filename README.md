@@ -33,7 +33,7 @@
 <a href="">
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,vite,ai,firebase,mongodb,express,nodejs" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=windows,powershell,npm,vscodium,notion" />
+  <img src="https://skillicons.dev/icons?i=windows,powershell,npm,vscodium,vercel,notion" />
 </a>
   </div>
   <hr>
