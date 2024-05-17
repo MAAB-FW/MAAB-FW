@@ -6,7 +6,7 @@
 <h3 align="center">A passionate learner of frontend development.</h3>
 <div align="center"> 
   
-  🌱 I’m currently learning **React**
+  🌱 I’m currently learning **basic of backend**
 
   📫 How to reach me **maab@tutanota.com**
   </div>
