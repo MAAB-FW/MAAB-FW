@@ -1,14 +1,23 @@
-**Under Construction**
+
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=maab-fw&label=Profile%20views&color=0e75b6&style=flat" alt="maab-fw" /> </p>
-
+<!-- banner -->
 <hr>
+<h2 align="center">🔰 OverView 🔰</h2>
+<h4 align="center">Hi there! I'm Aiyub Ali.</h4>
 <h3 align="center">A passionate learner of frontend development.</h3>
 <div align="center"> 
   
-  🌱 I’m currently learning **Next Js**
-
-  📫 How to reach me **maab@tutanota.com**
+  🌱 I’m currently learning **Next Js.**
+  
+  💻 I’m a **Tech Enthusiast** person.
+  
+  
+<!--
+<div>
+  
+  📫 How to reach me **maab@tutanota.com** 
+</div> -->
   </div>
 
 
@@ -30,13 +39,13 @@
   
 
 <hr>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Familiar-Tech/Skills ⚒️</h2>
 <br>
 <div align="center">
 <a href="">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,vite,ai,firebase,mongodb,express,nodejs,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,vite,ai,firebase,mongodb,nodejs,express,nextjs" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=windows,powershell,npm,vscodium,vercel,notion" />
+  <img src="https://skillicons.dev/icons?i=windows,powershell,npm,vscodium,vercel,bun,notion" />
 </a>
   </div>
   <hr>
