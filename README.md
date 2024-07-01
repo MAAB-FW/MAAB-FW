@@ -11,10 +11,9 @@
   
   🌱 I’m currently learning **Next Js.**
   
-  💻 I’m a **Tech Enthusiast** person.
-  
   
 <!--
+  💻 I’m a **Tech Enthusiast** person.
 <div>
   
   📫 How to reach me **maab@tutanota.com** 
