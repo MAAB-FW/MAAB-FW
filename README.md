@@ -14,14 +14,17 @@
 
 <h2 align="center">Connect with me:</h2>
 <div align="center">
-   <a href="https://facebook.com/groups/MuslimTechnician" target="_blank">
+<!--    <a href="https://facebook.com/groups/MuslimTechnician" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
+  </a> -->
   <a href="https://t.me/FW_MAAB" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
   <a href="mailto:maab@tutanota.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tutanota/default.svg" width="52" height="40" alt="tutanota logo"  />
+  </a>
+  <a href="mailto:mdaiiyubali@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
   
