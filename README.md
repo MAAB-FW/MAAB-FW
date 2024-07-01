@@ -12,7 +12,7 @@
   </div>
 
 
-<h2 align="center">Connect with me:</h2>
+<h2 align="center">Contact with me:</h2>
 <div align="center">
 <!--    <a href="https://facebook.com/groups/MuslimTechnician" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
