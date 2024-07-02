@@ -66,9 +66,13 @@
 <img src="https://raw.githubusercontent.com/maab-fw/maab-fw/output/snake.svg" alt="Snake animation" />
 --->
 
-###
-
-
+### 
+<h2 align="center">Snake Animation of GitHub Contributions</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MAAB-FW/MAAB-FW/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MAAB-FW/MAAB-FW/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MAAB-FW/MAAB-FW/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 
