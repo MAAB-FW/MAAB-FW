@@ -3,6 +3,8 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=maab-fw&label=Profile%20views&color=0e75b6&style=flat" alt="maab-fw" /> </p>
 <!-- banner -->
 <img src="https://i.ibb.co/8XjttMj/bannergithub.png" />
+
+[![wakatime](https://wakatime.com/badge/user/bb6d8de4-3212-46b7-8333-81d89ec69954.svg)](https://wakatime.com/@bb6d8de4-3212-46b7-8333-81d89ec69954)
 <hr>
 <h2 align="center">🔰 OverView 🔰</h2>
 <h4 align="center">Hi there! I'm Aiyub Ali.</h4>
