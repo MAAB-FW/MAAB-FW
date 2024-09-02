@@ -12,10 +12,14 @@
 <div align="center"> 
   
   🌱 I’m currently learning **Next Js.**
+  <br>
+  💻 I’m a **Tech Enthusiast** person.
+  <br>
+  💬 Talk to me about **React, JavaScript, Tech Related Topic** etc.
   
   
 <!--
-  💻 I’m a **Tech Enthusiast** person.
+  
 <div>
   
   📫 How to reach me **maab@tutanota.com** 
