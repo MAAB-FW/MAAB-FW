@@ -52,7 +52,7 @@
 <a href="">
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,vite,ai,firebase,mongodb,nodejs,express,nextjs" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=windows,powershell,npm,vscodium,vercel,bun,notion" />
+  <img src="https://skillicons.dev/icons?i=windows,powershell,npm,vscode,vercel,bun,notion" />
 </a>
   </div>
   <hr>
