@@ -12,7 +12,7 @@
 <h3 align="center">A passionate learner of frontend development.</h3>
 <div align="center"> 
   
-  🌱 I’m currently learning **Next Js.**
+  🌱 I’m currently learning and working on a team project with **Next Js.**
   <br>
   💻 I’m a **Tech Enthusiast** person.
   <br>
@@ -50,7 +50,7 @@
 <br>
 <div align="center">
 <a href="">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,vite,ai,firebase,mongodb,nodejs,express,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,vite,firebase,mongodb,nodejs,express,nextjs" />
   <br/>
   <img src="https://skillicons.dev/icons?i=windows,powershell,npm,vscode,vercel,bun,notion" />
 </a>
