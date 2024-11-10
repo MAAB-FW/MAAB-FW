@@ -12,7 +12,7 @@
 <h3 align="center">A passionate learner of frontend development.</h3>
 <div align="center"> 
   
-  🌱 I’m currently learning and working on a team project with **Next Js.**
+  🌱 I’m currently learning and working on another team project with **Next Js.** and **TypeScript**.
   <br>
   💻 I’m a **Tech Enthusiast** person.
   <br>
