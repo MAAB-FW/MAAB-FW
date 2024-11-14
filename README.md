@@ -1,15 +1,19 @@
 <!-- <p align="right"> <img src="https://komarev.com/ghpvc/?username=maab-fw&label=Profile%20views&color=0e75b6&style=flat" alt="maab-fw" /> </p> -->
+<!-- PROFILE VIEWS -->
 <p align="right"> <img src="https://visitcount.itsvg.in/api?id=maab-fw&icon=0&color=12https://visitcount.itsvg.in" alt="maab-fw" /> </p>
 
-<!-- banner -->
+<!-- BANNER -->
 <!-- <img src="https://i.ibb.co/8XjttMj/bannergithub.png" /> -->
 <img src="images/cover.png" />
 
+<!-- WORK TIME -->
+
 [![wakatime](https://wakatime.com/badge/user/bb6d8de4-3212-46b7-8333-81d89ec69954.svg)](https://wakatime.com/@bb6d8de4-3212-46b7-8333-81d89ec69954)
+
 <hr>
 <h2 align="center">🔰 OverView 🔰</h2>
 <h4 align="center">Hi there! I'm Aiyub Ali.</h4>
-<h3 align="center">A passionate learner of frontend development.</h3>
+<h3 align="center">A passionate learner of web development.</h3>
 <div align="center"> 
   
   🌱 I’m currently learning and working on another team project with **Next Js.** and **TypeScript**.
@@ -17,33 +21,26 @@
   💻 I’m a **Tech Enthusiast** person.
   <br>
   💬 Talk to me about **React, JavaScript, Tech Related Topic** etc.
-  
-  
-<!--
-  
-<div>
-  
-  📫 How to reach me **maab@tutanota.com** 
-</div> -->
-  </div>
 
+  </div>
 
 <h2 align="center">Contact with me:</h2>
 <div align="center">
+
 <!--    <a href="https://facebook.com/groups/MuslimTechnician" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a> -->
+
   <a href="https://t.me/FW_MAAB" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
-  <a href="mailto:maab@tutanota.com" target="_blank">
+  <!-- <a href="mailto:maab@tutanota.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tutanota/default.svg" width="52" height="40" alt="tutanota logo"  />
-  </a>
+  </a> -->
   <a href="mailto:mdaiiyubali@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
-  
 
 <hr>
 <h2 align="center">⚒️ Familiar-Tech/Skills ⚒️</h2>
@@ -55,7 +52,9 @@
   <img src="https://skillicons.dev/icons?i=windows,powershell,npm,vscode,vercel,bun,notion" />
 </a>
   </div>
-  <hr>
+
+<hr>
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br/>
 <div align="center">
@@ -67,21 +66,16 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maab-fw&show_icons=true&locale=en&layout=compact" alt="maab-fw" /></p>
 </div>
 
-
-###
 <!---
 <img src="https://raw.githubusercontent.com/maab-fw/maab-fw/output/snake.svg" alt="Snake animation" />
 --->
 
-### 
 <h2 align="center">Snake Animation of GitHub Contributions</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MAAB-FW/MAAB-FW/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MAAB-FW/MAAB-FW/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MAAB-FW/MAAB-FW/output/github-contribution-grid-snake.svg">
 </picture>
-
-
 
 <!---
 <div align="left">
