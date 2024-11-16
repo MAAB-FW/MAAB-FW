@@ -47,9 +47,9 @@
 <br>
 <div align="center">
 <a href="">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,vite,firebase,mongodb,nodejs,express,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,firebase,mongodb,nodejs,express,nextjs" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=windows,powershell,npm,vscode,vercel,bun,notion" />
+  <img src="https://skillicons.dev/icons?i=windows,powershell,npm,vscode,vercel,git,notion" />
 </a>
   </div>
 
