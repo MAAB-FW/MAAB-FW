@@ -16,7 +16,7 @@
 <h3 align="center">A passionate learner of web development.</h3>
 <div align="center"> 
   
-  🌱 I’m currently learning and working on another team project with **Next Js.** and **TypeScript**.
+  🌱 I’m currently learning **TypeScript** and also looking for **Job | Intern**.
   <br>
   💻 I’m a **Tech Enthusiast** person.
   <br>
