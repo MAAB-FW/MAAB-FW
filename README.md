@@ -16,11 +16,11 @@
 <h3 align="center">A passionate learner of web development.</h3>
 <div align="center"> 
   
-  🌱 I’m currently learning **TypeScript** and also looking for **Job | Intern**.
+  🌱 I’m currently looking for **Job | Intern**.
   <br>
   💻 I’m a **Tech Enthusiast** person.
   <br>
-  💬 Talk to me about **React, JavaScript, Tech Related Topic** etc.
+  💬 Talk to me about **React, JavaScript, Next.js, Tailwind, Tech Related Topic** etc.
 
   </div>
 
