@@ -16,7 +16,7 @@
 <h3 align="center">A passionate learner of web development.</h3>
 <div align="center"> 
   
-  🌱 I’m currently learning **React Native** & looking for **Job | Intern**.
+  🌱 I’m currently Revising My stack & looking for **Job | Intern**.
   <br>
   💻 I’m a **Tech Enthusiast** person.
   <br>
