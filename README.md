@@ -1,13 +1,11 @@
- <p align="right"> <img src="https://komarev.com/ghpvc/?username=maab-fw&label=Profile%20views&color=0e75b6&style=flat" alt="maab-fw" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=maab-fw&label=Profile%20views&color=0e75b6&style=flat" alt="maab-fw" /> </p>
 <!-- PROFILE VIEWS -->
 <!-- <p align="right"> <img src="https://visitcount.itsvg.in/api?id=maab-fw&icon=0&color=12https://visitcount.itsvg.in" alt="maab-fw" /> </p> -->
 
 <!-- BANNER -->
-<!-- <img src="https://i.ibb.co/8XjttMj/bannergithub.png" /> -->
 <img src="images/cover.png" />
 
 <!-- WORK TIME -->
-
 [![wakatime](https://wakatime.com/badge/user/bb6d8de4-3212-46b7-8333-81d89ec69954.svg)](https://wakatime.com/@bb6d8de4-3212-46b7-8333-81d89ec69954)
 
 <hr>
@@ -27,14 +25,14 @@
 <h2 align="center">Contact with me:</h2>
 <div align="center">
 
-<!--    <a href="https://facebook.com/groups/MuslimTechnician" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a> -->
+<!-- <a href="https://facebook.com/groups/MuslimTechnician" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+</a> -->
 
   <a href="https://t.me/FW_MAAB" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
-  <!-- <a href="mailto:maab@tutanota.com" target="_blank">
+  <!-- <a href="mailto:" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tutanota/default.svg" width="52" height="40" alt="tutanota logo"  />
   </a> -->
   <a href="mailto:mdaiiyubali@gmail.com" target="_blank">
