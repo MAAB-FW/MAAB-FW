@@ -14,7 +14,7 @@
 <h3 align="center">A passionate learner of web development.</h3>
 <div align="center"> 
   
-  🌱 I’m currently learning **Rust** language.
+  🌱 I’m currently working on a project.
   <br>
   💻 I’m a **Tech Enthusiast** person.
   <br>
