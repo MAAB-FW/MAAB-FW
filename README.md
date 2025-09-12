@@ -9,8 +9,9 @@
 [![wakatime](https://wakatime.com/badge/user/bb6d8de4-3212-46b7-8333-81d89ec69954.svg)](https://wakatime.com/@bb6d8de4-3212-46b7-8333-81d89ec69954)
 
 <hr>
-<h2 align="center">🔰 OverView 🔰</h2>
-<h4 align="center">Hi there! I'm Aiyub Ali.</h4>
+<!-- <h2 align="center">🔰 OverView 🔰</h2> -->
+<h3 align="center">👋ٱلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ ٱللَّٰهِ وَبَرَكَاتُهُ</h3>
+<h4 align="center">I'm Aiyub Ali.</h4>
 <h3 align="center">A passionate learner of web development.</h3>
 <div align="center"> 
   
@@ -18,7 +19,7 @@
   <br>
   💻 I’m a **Tech Enthusiast** person.
   <br>
-  💬 Talk to me about **React, JavaScript, Next.js, Tailwind, Tech Related Topic** etc.
+  💬 Talk to me about **React, JavaScript, Next.js, Tailwind, Tech Related Topic**, etc.
 
   </div>
 
@@ -45,9 +46,9 @@
 <br>
 <div align="center">
 <a href="">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,firebase,mongodb,nodejs,express,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,ts,js,tailwind,react,firebase,mongodb,nodejs,express,nextjs" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=windows,powershell,npm,vscode,vercel,git,notion" />
+  <img src="https://skillicons.dev/icons?i=windows,linux,powershell,npm,yarn,vscode,vercel,git,notion" />
 </a>
   </div>
 
