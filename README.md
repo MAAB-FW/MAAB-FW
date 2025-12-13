@@ -1,5 +1,5 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=maab-fw&label=Profile%20views&color=0e75b6&style=flat" alt="maab-fw" /> </p>
 <!-- PROFILE VIEWS -->
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=maab-fw&label=Profile+views&style=flat&abbreviated=true"  alt="maab-fw" /> </p>
 <!-- <p align="right"> <img src="https://visitcount.itsvg.in/api?id=maab-fw&icon=0&color=12https://visitcount.itsvg.in" alt="maab-fw" /> </p> -->
 
 <!-- BANNER -->
