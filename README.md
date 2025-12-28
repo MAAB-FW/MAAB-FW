@@ -65,9 +65,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maab-fw&show_icons=true&locale=en&layout=compact" alt="maab-fw" /></p>
 </div>
 
-<!---
-<img src="https://raw.githubusercontent.com/maab-fw/maab-fw/output/snake.svg" alt="Snake animation" />
---->
 
 <h2 align="center">Snake Animation of GitHub Contributions</h2>
 <picture>
