@@ -15,7 +15,7 @@
 <h3 align="center">A passionate learner of web development.</h3>
 <div align="center"> 
   
-  🌱 I’m currently working on a React Native project.
+  🌱 I’m currently working at the **Nexulyze** company.
   <br>
   💻 I’m a **Tech Enthusiast** person.
   <br>
