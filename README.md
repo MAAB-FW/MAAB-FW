@@ -56,14 +56,24 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br/>
+
 <div align="center">
+  
+<img width="410" src="https://github-readme-stats-fast.vercel.app/api?username=maab-fw&show_icons=true&rank_icon=github" />
+
+<img width="310" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=maab-fw&layout=compact" />
+  
+<p><img align="center" src="https://github-readme-stats-fast.vercel.app/api/streak?username=maab-fw" alt="maab-fw" /></p>
+</div>
+
+<!-- <div align="center"> // old cards
   
 <img width="410" src="https://streak-stats.demolab.com/?user=MAAB-FW" />
 
 <img width="390" src="https://github-readme-stats.vercel.app/api?username=MAAB-FW&show_icons=true&rank_icon=github" />
   
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maab-fw&show_icons=true&locale=en&layout=compact" alt="maab-fw" /></p>
-</div>
+</div> -->
 
 
 <h2 align="center">Snake Animation of GitHub Contributions</h2>
