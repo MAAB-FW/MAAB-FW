@@ -19,7 +19,7 @@
   <br>
   💻 I’m a **Tech Enthusiast** person.
   <br>
-  💬 Talk to me about **React, JavaScript, Next.js, Tailwind, Tech Related Topic**, etc.
+  💬 Talk to me about **React, TypeScript, Next.js, Tailwind, Tech Related Topic**, etc.
 
   </div>
 
