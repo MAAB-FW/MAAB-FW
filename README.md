@@ -48,8 +48,10 @@
 <a href="">
   <img src="https://skillicons.dev/icons?i=html,css,ts,js,tailwind,react,firebase,mongodb,nodejs,express,nextjs" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=linux,redhat,npm,yarn,bun,vscode,vercel,git,notion" />
+  <img src="https://thesvg.org/icons/fedora/default.svg" height="48"/>
+  <img src="https://skillicons.dev/icons?i=linux,npm,yarn,bun,vscode,vercel,git,notion" />
 </a>
+
   </div>
 
 <hr>
