@@ -15,15 +15,15 @@
 <h3 align="center">A passionate learner of web development.</h3>
 <div align="center"> 
   
-  🌱 I’m currently working at the **Nexulyze** company.
+  🌱 I’m currently taking the **Reactive Accelerator** course by **LWS**.
   <br>
-  💻 I’m a **Tech Enthusiast** person.
+  💻 I’m a **Tech Enthusiast**.
   <br>
-  💬 Talk to me about **React, TypeScript, Next.js, Tailwind, Tech Related Topic**, etc.
+  💬 Talk to me about **React, TypeScript, Next.js, Tailwind, tech-related topics**, etc.
 
   </div>
 
-<h2 align="center">Contact with me:</h2>
+<h2 align="center">Contact me:</h2>
 <div align="center">
 
 <!-- <a href="https://facebook.com/groups/MuslimTechnician" target="_blank">
